@@ -1,0 +1,328 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.fluid-container {
+    margin: 0;
+    padding: 0;
+    background-color:white;;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.search-product{
+    border-radius:10px;
+    font-weight:bold;
+    font-size:15px;
+    width:350px;
+}
+
+.container-main-paragraph {
+    font-size: 15px;
+    color: black;
+
+}
+
+.bold-span {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.decoration-span {
+    text-decoration: underline;
+}
+
+.boat-a {
+    color: red;
+    font-weight: 900;
+    letter-spacing: -1px;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.carousel-section{
+    margin-top:120px;
+}
+.carousel-control-prev {
+    height: 550px;
+    width: 70px;
+}
+
+.carousel-control-next {
+    height: 550px;
+    width: 70px;
+
+}
+
+.carousel-control-prev-icon {
+    background-color: black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    color: black;
+    border-width: 20px;
+    height: 70px;
+    width: 70px;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    color: black;
+    border-width: 20px;
+    height: 70px;
+    width: 70px;
+}
+
+.warranty {
+    background-color: rgb(218, 239, 247);
+    padding: 2px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0;
+    padding: 0px;
+    line-height: 0.8;
+}
+
+.warrantty p {
+    font-size: 10px;
+    margin: 0;
+    padding: 0px;
+    line-height: 0.8;
+}
+
+
+.warranty-logo {
+    height: 60px;
+    width: 60px;
+
+}
+
+.sales {
+    padding: 15px;
+    width: 100%;
+    background-color: #ffffff;
+    gap:10px;
+}
+
+.playback-paragraph {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.sale-container {
+    border-radius: 10px;
+    background-color: rgb(247, 240, 240);
+
+}
+.view-link{
+    font-weight:bold;
+    font-size:18px;
+    color:navy;
+}
+
+.sale-image {
+    height: 200px;
+    width: 225px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.sale-rating {
+    background-color: #ffffff;
+    padding: 2px;
+    margin: 3px;
+    height: 20px;
+    width: 40px;
+    border-radius: 6px;
+    text-align: center;
+    align-items: center;
+}
+.star-image{
+    height:16px;
+width:16px;
+}
+
+.bg-warning {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.sale-main-info {
+    font-size: 30px;
+    padding-left: 2.3%;
+    padding-top: 3.5%;
+    line-height: 1px;
+
+}
+
+.sale-name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sale-price-underline {
+    text-decoration: line-through;
+    font-size: 10px;
+    color: grey;
+}
+
+.sale-total-cost {
+    font-size: 14px;
+    font-weight: bold;
+    color: green;
+}
+
+.sale-name-short {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.sale-span {
+    font-weight: bold;
+}
+
+.red-line {
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.nirvana {
+    border-style: solid;
+    background-size: cover;
+    border-width: 0px;
+    padding-left: 3.2%;
+    padding-right: 3.2%;
+    background-color: #ffffff;
+}
+
+.nirvana img {
+    width: 100%;
+    border-style: solid;
+    background-size: cover;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+.nirvana-main-info {
+    font-size: 30px;
+    padding-left: 2.3%;
+    padding-top: 3.5%;
+    line-height: 1px;
+}
+
+.deal-main-info {
+    font-size: 26px;
+    padding-left: 2.3%;
+}
+
+.categories {
+    width: 100%;
+    padding:10px;
+    background-color: #ffffff;
+}
+
+.category-container{
+    gap:10px;
+    padding:10px;
+}
+
+.category-image {
+    height:70px;
+    width: 70px;
+}
+
+.category-name {
+    font-size: 13px;
+    font-weight: bold;
+
+}
+
+.press{
+    background-color:#ffff;
+    padding: 10px;
+    padding-left: 4%;
+    padding-right:4%;
+}
+.press-main-info{
+    font-size:30px;
+}
+.press-span{
+    font-weight: bold;
+}
+.press-container-1{
+    background-color:rgba(187, 215, 234, 0.906);
+    height:280px;
+    width:300px;
+   width:40%;
+}
+
+.press-heading{
+    margin:110px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+}
+
+.press-container-2{
+    height:280px;
+    width:300px;
+    background-color:rgb(230, 230, 255);
+    width:60%;
+}
+.press-paragraph{
+     margin:90px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:23px;
+}
+
+.subscribe{
+    padding:10px;
+    padding-left:5%;
+    padding-right:5%;
+    background-color:rgb(213, 242, 253);
+    margin:20px;
+}
+.boat-name{
+    font-size:45px;
+    font-weight:bold;
+    padding-left:20%;
+}
+.btn{
+    width:100px;
+    text-align: center;
+}
+.subscribe-paragraph{
+    font-size:20px;
+}
+
+.contact-info{
+    background-color:rgb(241, 251, 255);
+}
+
+.lifestyle-image{
+    height:500px;
+    width:330px;
+    
+}
+.lifestyle{
+    padding-left:4%;
+    padding-right:5%;
+}
+.bg-cayon{
+    background-color:rgb(236, 255, 255);
+    top:10%;
+}
+.life-style-main-info{
+    font-size:30px;
+}
